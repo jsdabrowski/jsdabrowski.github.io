@@ -1,5 +1,5 @@
 ---
-title: "Strona Misia Pysia"
+title: "Strona S&J"
 ---
 
-Jesteśmy jak dwie pomarańcze.
+Jesteśmy jak dwie połówki pomarańczy :tangerine:
