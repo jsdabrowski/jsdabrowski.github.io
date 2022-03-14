@@ -2,4 +2,4 @@
 title: "Strona S&J"
 ---
 
-Jesteśmy jak dwie połówki pomarańczy.
+Jesteśmy jak dwie połówki pomarańczy...
