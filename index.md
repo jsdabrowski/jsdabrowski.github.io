@@ -1,5 +1,5 @@
 ---
-title: "New Home Page"
+title: "Strona Misia Pysia"
 ---
 
-Here I published New content.
+Jesteśmy jak dwie pomarańcze.
