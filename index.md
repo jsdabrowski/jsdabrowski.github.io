@@ -1,5 +1,5 @@
 ---
-title: "New Home Page Used for This Course"
+title: "New Home Page"
 ---
 
 Here I published New content.
